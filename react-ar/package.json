@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@belivvr/aframe-react": "^0.4.1",
+    "@material-ui/core": "^4.12.3",
     "@react-three/drei": "^8.16.1",
     "@react-three/xr": "^3.4.0",
     "@testing-library/jest-dom": "^5.16.2",
@@ -20,6 +21,7 @@
     "react": "^17.0.2",
     "react-aframe": "^1.0.0",
     "react-dom": "^17.0.2",
+    "react-router-dom": "^6.2.2",
     "react-scripts": "5.0.0",
     "typescript": "^4.6.2",
     "web-vitals": "^2.1.4"
