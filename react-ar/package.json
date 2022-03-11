@@ -26,7 +26,7 @@
   },
   "scripts": {
     "start": "HTTPS=true react-scripts start",
-    "build": "HTTPS=true react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "serve": "serve -s build --ssl-cert ./cert/cert.pem --ssl-key ./cert/key.pem",
     "eject": "react-scripts eject"
